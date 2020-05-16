@@ -15,6 +15,7 @@ cryptography==2.9
 decorator==4.4.2
 defusedxml==0.6.0
 Django==3.0.6
+django-heroku==0.3.1
 docutils==0.15.2
 entrypoints==0.3
 Fabric3==1.14.post1
